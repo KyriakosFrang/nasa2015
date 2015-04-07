@@ -1,0 +1,30 @@
+[
+	{
+		"Login_idLogin" : 1,
+		"Date_taken" : "2015-04-04 11:42:13",
+		"Current_temperature" : 31.9384,
+		"Current_airflow" : 3.9,
+		"Current_blood_oxygen" : 0.98,
+		"Current_systolic_pressure" : 125.61,
+		"Current_diastolic_pressure" : 81.48,
+		"Current_muscle_intensity" : 0.017098,
+		"Current_ecg" : 1.7098,
+		"Current_contactivity" : 0.03,
+		"Current_pulse" : 0.75,
+		"Current_radiation" : 50.95
+	},
+	{
+		"Login_idLogin" : 1,
+		"Date_taken" : "2015-04-04 11:43:11",
+		"Current_temperature" : 31.9319,
+		"Current_airflow" : 3.34,
+		"Current_blood_oxygen" : 0.98,
+		"Current_systolic_pressure" : 126.18,
+		"Current_diastolic_pressure" : 80.65,
+		"Current_muscle_intensity" : 0.017069,
+		"Current_ecg" : 1.7069,
+		"Current_contactivity" : 0.03,
+		"Current_pulse" : 0.75,
+		"Current_radiation" : 51.95
+	}
+]
